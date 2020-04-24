@@ -2,7 +2,7 @@
 It's simply a radial progress that uses a CustomPaint as an extended class where we can draw circles, arcs, and much more.
 
 ## Usage
-```
+```dart
 // class or file import
 import ...;
 
